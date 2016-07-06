@@ -9,7 +9,8 @@
         restaurante Só de Cenoura.
   </description>
     <author email="alemos@openmailbox.org" href="https://github.com/andersonlemos">Anderson Lemos</author>
-    <icon src="resources\android\icon\drawable-xhdpi-icon.png" />
+    <access origin="http://cozinhapp.sergiolopes.org" />
     <preference name="SplashScreen" value="screen" />
     <preference name="SplashScreenDelay" value="3000" />
+    <preference name="StatusBarBackgroundColor" value="#E86C13" />
 </widget>

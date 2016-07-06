@@ -36,6 +36,7 @@
         restaurante Só de Cenoura.
   </description>
     <author email="alemos@openmailbox.org" href="https://github.com/andersonlemos">Anderson Lemos</author>
+    <access origin="http://cozinhapp.sergiolopes.org" />
     <preference name="SplashScreen" value="screen" />
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="StatusBarBackgroundColor" value="#E86C13" />
